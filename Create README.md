@@ -21,7 +21,7 @@ It may be used to start [scrcpy]:
 autoadb scrcpy -s '{}'
 ```
 
-[scrcpy]: https://github.com/Genymobile/scrcpy
+[scrcpy]: https://github.com/lich-bot/scrcpy
 
 
 ## Build
@@ -60,7 +60,7 @@ It will generate `target/x86_64-pc-windows-gnu/release/autoadb.exe`.
 This project reuses the mechanism I implemented in [gnirehtet] and expose it as
 a standalone tool, so the licence is the same.
 
-[gnirehtet]: https://github.com/Genymobile/gnirehtet
+[gnirehtet]: https://github.com/lich-bot/gnirehtet
 
     Copyright (C) 2017 Genymobile
     Copyright (C) 2019 Romain Vimont
